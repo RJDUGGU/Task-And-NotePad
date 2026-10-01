@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task &amp; Notepad</string>
+    <string name="tasks_tab">Tasks</string>
+    <string name="notes_tab">Notes</string>
+    <string name="add_task">New Task</string>
+    <string name="add_note">New Note</string>
+    <string name="search_placeholder">Search tasks &amp; notes…</string>
+    <string name="no_tasks">No tasks found</string>
+    <string name="no_notes">No notes yet</string>
+</resources>

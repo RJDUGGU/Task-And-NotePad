@@ -1,0 +1,6 @@
+{
+  "name": "Task & Notepad",
+  "description": "A task manager and notepad app for organizing daily to-dos, checklists, and personal notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
